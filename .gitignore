@@ -1,3 +1,6 @@
+/scripts/nodes_modules/
+/scripts/nodes_modules/..
+scripts/nodes_modules/..
 scripts/nodes_modules/
 /nodes_modules
 .DS_Store
